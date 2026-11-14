@@ -1,4 +1,4 @@
 package auth
 
 // Marker identifies reviewed main content.
-const Marker = "reviewed-main"
+const Marker = "reviewed-main-2"
