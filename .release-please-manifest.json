@@ -1,5 +1,5 @@
 {
-  "accessapproval": "1.15.1",
-  "auth": "0.24.4",
+  "accessapproval": "1.15.2",
+  "auth": "0.24.5",
   "bigquery": "1.73.0"
 }
