@@ -1,3 +1,3 @@
 # accessapproval
 
-Teh accessapproval module.
+The accessapproval module.
